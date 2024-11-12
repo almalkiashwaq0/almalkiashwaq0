@@ -15,6 +15,9 @@ Hi there 👋 I'm Ashwaq!<br><br>I'm a Data Scientist with a passion for uncover
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=almalkiashwaq0&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=almalkiashwaq0&limit=5&theme=default&combine_all_yearly_contributions=true)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=almalkiashwaq0&icon=5&color=12)](https://visitcount.itsvg.in)
 
