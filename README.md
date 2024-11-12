@@ -13,9 +13,9 @@ Hi there 👋 I'm Ashwaq!<br><br>I'm a Data Scientist with a passion for uncover
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=almalkiashwaq0&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=almalkiashwaq0&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=almalkiashwaq0&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=almalkiashwaq0&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=almalkiashwaq0&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
