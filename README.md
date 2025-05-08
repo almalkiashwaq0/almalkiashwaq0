@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi there 👋 I'm Ashwaq!<br><br>I'm a Data Scientist with a passion for uncovering insights and creating impact through Machine Learning. Here's a bit about me:<br><br>💻 I work with Python and SQL, leveraging their power to turn complex data into actionable knowledge.<br>🌍 Currently diving deep into Arabic NLP, exploring how language technology can advance understanding and connectivity.<br>🎯 Goal for this year: Complete my NLP project and contribute to the community with insights and tools from my journey.<br>Let’s connect! I’m always excited to learn, collaborate, and exchange ideas on anything data, NLP, or ML-related!
 
 
