@@ -6,10 +6,11 @@ I’m a Computer Science graduate and master’s student with a focus on data an
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ashwaq-almalki-981338307) 
 
-# 💻 Skills:
-• Python • SQL • Machine Learning • Natural Language Processing (NLP)
-• Data Analysis • Data Visualization • Power BI • Excel
-• Web Scraping  • Automation
+# 🛠️ Skills:
+💻 **Programming:** Python • SQL  
+📊 **Data Science:** Machine Learning • NLP • Data Analysis  
+📈 **Visualization:** Power BI • Excel • Data Visualization  
+⚙️ **Other:** Web Scraping • Data Collection • Automation
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=almalkiashwaq0&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
